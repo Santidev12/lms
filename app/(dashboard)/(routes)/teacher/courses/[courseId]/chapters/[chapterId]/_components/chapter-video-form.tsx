@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import "@uploadthing/react/styles.css";
 import * as z from "zod";
@@ -96,7 +96,7 @@ export const ChapterVideoForm = ({
                         }}
                     />
                     <div className="text-xs text-muted-foreground mt-4">
-                        Upload this chapter's video
+                    Upload this chapter&apos;s video
                     </div>
                 </div>
             )}
